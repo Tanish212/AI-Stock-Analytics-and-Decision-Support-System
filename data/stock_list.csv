@@ -1,0 +1,102 @@
+Ticker,Company,Sector
+RELIANCE.NS,Reliance Industries,Energy
+TCS.NS,Tata Consultancy Services,IT
+INFY.NS,Infosys,IT
+HCLTECH.NS,HCL Technologies,IT
+WIPRO.NS,Wipro,IT
+TECHM.NS,Tech Mahindra,IT
+PERSISTENT.NS,Persistent Systems,IT
+COFORGE.NS,Coforge,IT
+MPHASIS.NS,Mphasis,IT
+SBIN.NS,State Bank of India,Banking
+HDFCBANK.NS,HDFC Bank,Banking
+ICICIBANK.NS,ICICI Bank,Banking
+AXISBANK.NS,Axis Bank,Banking
+KOTAKBANK.NS,Kotak Mahindra Bank,Banking
+INDUSINDBK.NS,IndusInd Bank,Banking
+BANKBARODA.NS,Bank of Baroda,Banking
+PNB.NS,Punjab National Bank,Banking
+CANBK.NS,Canara Bank,Banking
+UNIONBANK.NS,Union Bank,Banking
+ITC.NS,ITC,FMCG
+HINDUNILVR.NS,Hindustan Unilever,FMCG
+NESTLEIND.NS,Nestle India,FMCG
+BRITANNIA.NS,Britannia,FMCG
+DABUR.NS,Dabur,FMCG
+MARICO.NS,Marico,FMCG
+GODREJCP.NS,Godrej Consumer,FMCG
+COLPAL.NS,Colgate Palmolive,FMCG
+TATACONSUM.NS,Tata Consumer,FMCG
+UBL.NS,United Breweries,FMCG
+SUNPHARMA.NS,Sun Pharma,Pharma
+DRREDDY.NS,Dr Reddy's,Pharma
+CIPLA.NS,Cipla,Pharma
+LUPIN.NS,Lupin,Pharma
+AUROPHARMA.NS,Aurobindo Pharma,Pharma
+TORNTPHARM.NS,Torrent Pharma,Pharma
+ALKEM.NS,Alkem Laboratories,Pharma
+ZYDUSLIFE.NS,Zydus Life,Pharma
+BIOCON.NS,Biocon,Pharma
+DIVISLAB.NS,Divi's Laboratories,Pharma
+M&M.NS,Mahindra & Mahindra,Auto
+MARUTI.NS,Maruti Suzuki,Auto
+BAJAJ-AUTO.NS,Bajaj Auto,Auto
+HEROMOTOCO.NS,Hero MotoCorp,Auto
+EICHERMOT.NS,Eicher Motors,Auto
+TVSMOTOR.NS,TVS Motor,Auto
+ASHOKLEY.NS,Ashok Leyland,Auto
+BALKRISIND.NS,Balkrishna Industries,Auto
+BOSCHLTD.NS,Bosch,Auto
+LT.NS,Larsen & Toubro,Infrastructure
+ULTRACEMCO.NS,UltraTech Cement,Infrastructure
+GRASIM.NS,Grasim Industries,Infrastructure
+SHREECEM.NS,Shree Cement,Infrastructure
+AMBUJACEM.NS,Ambuja Cements,Infrastructure
+ACC.NS,ACC,Infrastructure
+DLF.NS,DLF,Real Estate
+LODHA.NS,Macrotech Developers,Real Estate
+NBCC.NS,NBCC,Infrastructure
+IRB.NS,IRB Infrastructure,Infrastructure
+BHARTIARTL.NS,Bharti Airtel,Telecom
+IDEA.NS,Vodafone Idea,Telecom
+INDUSTOWER.NS,Indus Towers,Telecom
+POWERGRID.NS,Power Grid,Power
+NTPC.NS,NTPC,Power
+NHPC.NS,NHPC,Power
+ADANIPOWER.NS,Adani Power,Power
+TATAPOWER.NS,Tata Power,Power
+JSWENERGY.NS,JSW Energy,Power
+TORNTPOWER.NS,Torrent Power,Power
+ONGC.NS,ONGC,Oil & Gas
+BPCL.NS,BPCL,Oil & Gas
+IOC.NS,Indian Oil,Oil & Gas
+HINDPETRO.NS,HPCL,Oil & Gas
+OIL.NS,Oil India,Oil & Gas
+GAIL.NS,GAIL,Oil & Gas
+PETRONET.NS,Petronet LNG,Oil & Gas
+TATASTEEL.NS,Tata Steel,Metals
+JSWSTEEL.NS,JSW Steel,Metals
+HINDALCO.NS,Hindalco,Metals
+JINDALSTEL.NS,Jindal Steel,Metals
+SAIL.NS,SAIL,Metals
+NMDC.NS,NMDC,Metals
+VEDL.NS,Vedanta,Metals
+COALINDIA.NS,Coal India,Mining
+ADANIPORTS.NS,Adani Ports,Logistics
+CONCOR.NS,Container Corporation,Logistics
+ETERNAL.NS,Zomato,Consumer Tech
+PAYTM.NS,One97 Communications,FinTech
+NYKAA.NS,FSN E-Commerce,Consumer Tech
+IRCTC.NS,IRCTC,Travel
+IRFC.NS,IRFC,Finance
+INDIGO.NS,InterGlobe Aviation,Aviation
+DMART.NS,Avenue Supermarts,Retail
+BAJFINANCE.NS,Bajaj Finance,Finance
+BAJAJFINSV.NS,Bajaj Finserv,Finance
+CHOLAFIN.NS,Cholamandalam Finance,Finance
+SHRIRAMFIN.NS,Shriram Finance,Finance
+MUTHOOTFIN.NS,Muthoot Finance,Finance
+RECLTD.NS,REC,Finance
+PFC.NS,Power Finance Corporation,Finance
+BHEL.NS,Bharat Heavy Electricals,Industrial
+POLYCAB.NS,Polycab India,Electrical Equipment

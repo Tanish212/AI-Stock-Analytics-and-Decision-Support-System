@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+html,
+body,
+[class*="css"]{
+    font-family:'Poppins',sans-serif;
+}
+
+.block-container{
+    padding-top:0rem;
+    max-width:100%;
+}
+
+#MainMenu,
+footer,
+header{
+    visibility:hidden;
+}
+
+[data-testid="stSidebar"]{
+    display:none;
+}
+
+[data-testid="collapsedControl"]{
+    display:none;
+}
+
+.stApp{
+
+    background:#070F1F;
+
+    color:white;
+}
+/* =====================================================
+                    NAVBAR
+====================================================== */
+
+.navbar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:22px 60px;
+
+}
+
+.logo{
+
+    color:white;
+
+    font-size:28px;
+
+    font-weight:700;
+
+}
+
+.navbar-center{
+
+    display:flex;
+
+    gap:40px;
+
+}
+
+.navbar-center a{
+
+    text-decoration:none;
+
+    color:white;
+
+    font-size:18px;
+
+    font-weight:500;
+
+    transition:.3s;
+
+}
+
+.navbar-center a:hover{
+
+    color:#3B82F6;
+
+}
+
+.navbar-right{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:25px;
+
+}
+
+.profile{
+
+    color:white;
+
+    text-decoration:none;
+
+    font-size:18px;
+
+}
+
+.start-btn{
+
+    background:linear-gradient(
+        90deg,
+        #2563EB,
+        #3B82F6
+    );
+
+    color:white;
+
+    border:none;
+
+    padding:12px 24px;
+
+    border-radius:12px;
+
+    font-size:16px;
+
+    font-weight:600;
+
+    cursor:pointer;
+
+}
+
+.start-btn:hover{
+
+    background:linear-gradient(
+        90deg,
+        #1D4ED8,
+        #2563EB
+    );
+
+}
+
+.navbar-divider{
+
+    height:1px;
+
+    background:rgba(255,255,255,.08);
+
+}
