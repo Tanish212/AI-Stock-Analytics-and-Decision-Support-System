@@ -17,3 +17,4 @@ Thumbs.db
 
 .ipynb_checkpoints/
 *.pyc
+data/final/feature_engineered_stock_data.csv
