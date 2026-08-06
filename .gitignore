@@ -19,7 +19,7 @@ Thumbs.db
 *.pyc
 data/final/feature_engineered_stock_data.csv
 
-models/trained_models/
+
 *.log
 *.h5
 *.ckpt
