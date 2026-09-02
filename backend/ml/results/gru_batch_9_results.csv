@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+POWERGRID,4.8297,6.4011,1.5902,0.9292,2303,576,../models/gru_models\POWERGRID_gru.keras,../models/gru_models\POWERGRID_scaler.pkl
+RECLTD,11.0789,15.4493,2.435,0.9683,2303,576,../models/gru_models\RECLTD_gru.keras,../models/gru_models\RECLTD_scaler.pkl
+SAIL,3.5552,4.7686,2.4342,0.959,2303,576,../models/gru_models\SAIL_gru.keras,../models/gru_models\SAIL_scaler.pkl
+SHREECEM,290.8568,386.0649,1.0825,0.9685,2302,576,../models/gru_models\SHREECEM_gru.keras,../models/gru_models\SHREECEM_scaler.pkl
+SHRIRAMFIN,33.8485,44.1356,4.0876,0.9451,2303,576,../models/gru_models\SHRIRAMFIN_gru.keras,../models/gru_models\SHRIRAMFIN_scaler.pkl
+SUNPHARMA,42.3785,49.3849,2.413,0.8139,2302,576,../models/gru_models\SUNPHARMA_gru.keras,../models/gru_models\SUNPHARMA_scaler.pkl
+TATACONSUM,36.861,42.2852,3.2958,0.7122,2302,576,../models/gru_models\TATACONSUM_gru.keras,../models/gru_models\TATACONSUM_scaler.pkl
+TATAPOWER,8.6435,11.1647,2.1709,0.8535,2303,576,../models/gru_models\TATAPOWER_gru.keras,../models/gru_models\TATAPOWER_scaler.pkl
+TATASTEEL,3.3746,4.5199,1.9817,0.9595,2303,576,../models/gru_models\TATASTEEL_gru.keras,../models/gru_models\TATASTEEL_scaler.pkl
+TECHM,24.4366,31.5371,1.5851,0.9351,2302,576,../models/gru_models\TECHM_gru.keras,../models/gru_models\TECHM_scaler.pkl

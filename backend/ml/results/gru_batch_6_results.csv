@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+IRB,0.5861,0.8414,2.2522,0.9655,2303,576,../models/gru_models\IRB_gru.keras,../models/gru_models\IRB_scaler.pkl
+IRCTC,12.151,15.3757,2.0162,0.9772,1363,341,../models/gru_models\IRCTC_gru.keras,../models/gru_models\IRCTC_scaler.pkl
+IRFC,2.2147,2.7917,2.1256,0.9631,1104,276,../models/gru_models\IRFC_gru.keras,../models/gru_models\IRFC_scaler.pkl
+ITC,4.9938,6.7062,1.3147,0.989,2302,576,../models/gru_models\ITC_gru.keras,../models/gru_models\ITC_scaler.pkl
+JINDALSTEL,27.2453,33.6387,2.6378,0.902,2303,576,../models/gru_models\JINDALSTEL_gru.keras,../models/gru_models\JINDALSTEL_scaler.pkl
+JSWENERGY,16.0613,21.1916,2.8659,0.9388,2303,576,../models/gru_models\JSWENERGY_gru.keras,../models/gru_models\JSWENERGY_scaler.pkl
+JSWSTEEL,23.9086,29.9861,2.1721,0.9472,2303,576,../models/gru_models\JSWSTEEL_gru.keras,../models/gru_models\JSWSTEEL_scaler.pkl
+KOTAKBANK,6.1489,8.1214,1.5541,0.9307,2302,576,../models/gru_models\KOTAKBANK_gru.keras,../models/gru_models\KOTAKBANK_scaler.pkl
+LODHA,28.4519,37.7301,2.7765,0.9369,1062,266,../models/gru_models\LODHA_gru.keras,../models/gru_models\LODHA_scaler.pkl
+LT,101.1696,123.1654,2.6806,0.7828,2302,576,../models/gru_models\LT_gru.keras,../models/gru_models\LT_scaler.pkl

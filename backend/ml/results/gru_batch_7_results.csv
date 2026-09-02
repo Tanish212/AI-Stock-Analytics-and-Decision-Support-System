@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+LUPIN,71.9673,84.0689,3.3993,0.8279,2303,576,../models/gru_models\LUPIN_gru.keras,../models/gru_models\LUPIN_scaler.pkl
+M&M,98.7304,115.8638,3.0971,0.8772,2303,576,../models/gru_models\M&M_gru.keras,../models/gru_models\M&M_scaler.pkl
+MARICO,18.0212,21.449,2.466,0.9107,2302,576,../models/gru_models\MARICO_gru.keras,../models/gru_models\MARICO_scaler.pkl
+MARUTI,163.7171,221.0919,1.2162,0.98,2302,576,../models/gru_models\MARUTI_gru.keras,../models/gru_models\MARUTI_scaler.pkl
+MPHASIS,61.2219,78.3634,2.3213,0.9244,2303,576,../models/gru_models\MPHASIS_gru.keras,../models/gru_models\MPHASIS_scaler.pkl
+MUTHOOTFIN,215.0059,282.041,7.0571,0.8303,2303,576,../models/gru_models\MUTHOOTFIN_gru.keras,../models/gru_models\MUTHOOTFIN_scaler.pkl
+NBCC,2.7955,3.486,2.7784,0.9249,2303,576,../models/gru_models\NBCC_gru.keras,../models/gru_models\NBCC_scaler.pkl
+NESTLEIND,22.3002,30.6156,1.7656,0.9218,2303,576,../models/gru_models\NESTLEIND_gru.keras,../models/gru_models\NESTLEIND_scaler.pkl
+NHPC,2.0106,2.671,2.3281,0.9039,2303,576,../models/gru_models\NHPC_gru.keras,../models/gru_models\NHPC_scaler.pkl
+NMDC,1.7323,2.177,2.1983,0.9221,2303,576,../models/gru_models\NMDC_gru.keras,../models/gru_models\NMDC_scaler.pkl

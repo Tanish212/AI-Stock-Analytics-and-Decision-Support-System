@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+DMART,88.3066,123.4026,2.157,0.8358,1867,467,../models/gru_models\DMART_gru.keras,../models/gru_models\DMART_scaler.pkl
+DRREDDY,19.3506,25.0518,1.5403,0.8596,2302,576,../models/gru_models\DRREDDY_gru.keras,../models/gru_models\DRREDDY_scaler.pkl
+EICHERMOT,80.1581,113.1141,1.341,0.99,2302,576,../models/gru_models\EICHERMOT_gru.keras,../models/gru_models\EICHERMOT_scaler.pkl
+ETERNAL,7.4511,9.3469,2.6999,0.9236,1009,253,../models/gru_models\ETERNAL_gru.keras,../models/gru_models\ETERNAL_scaler.pkl
+GAIL,3.7372,5.0737,1.957,0.95,2303,576,../models/gru_models\GAIL_gru.keras,../models/gru_models\GAIL_scaler.pkl
+GODREJCP,22.6368,29.8978,1.8966,0.9489,2302,576,../models/gru_models\GODREJCP_gru.keras,../models/gru_models\GODREJCP_scaler.pkl
+GRASIM,55.1212,70.1332,1.986,0.8943,2302,576,../models/gru_models\GRASIM_gru.keras,../models/gru_models\GRASIM_scaler.pkl
+HCLTECH,30.7678,40.3504,2.0347,0.9642,2303,576,../models/gru_models\HCLTECH_gru.keras,../models/gru_models\HCLTECH_scaler.pkl
+HDFCBANK,17.2736,21.2026,1.9534,0.94,2302,576,../models/gru_models\HDFCBANK_gru.keras,../models/gru_models\HDFCBANK_scaler.pkl
+HEROMOTOCO,95.3786,120.9797,1.8453,0.9677,2302,576,../models/gru_models\HEROMOTOCO_gru.keras,../models/gru_models\HEROMOTOCO_scaler.pkl

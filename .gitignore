@@ -24,4 +24,15 @@ data/final/feature_engineered_stock_data.csv
 *.h5
 *.ckpt
 data/raw/
+# Frontend temporary/build files
+frontend/dist/
+frontend/build-check/
+frontend/build-check-news/
+frontend/frames_temp/
+
+# Node dependencies
+node_modules/
+
+# CatBoost generated files
 catboost_info/
+notebooks/catboost_info/

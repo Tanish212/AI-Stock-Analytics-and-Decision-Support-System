@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+ACC,32.6485,43.487,1.7532,0.9871,2303,576,../models/gru_models\ACC_gru.keras,../models/gru_models\ACC_scaler.pkl
+ADANIPORTS,38.3302,48.9104,2.5739,0.9322,2303,576,../models/gru_models\ADANIPORTS_gru.keras,../models/gru_models\ADANIPORTS_scaler.pkl
+ADANIPOWER,6.712,10.3779,4.0563,0.9276,2303,576,../models/gru_models\ADANIPOWER_gru.keras,../models/gru_models\ADANIPOWER_scaler.pkl
+ALKEM,65.2207,86.7112,1.1994,0.9461,2110,528,../models/gru_models\ALKEM_gru.keras,../models/gru_models\ALKEM_scaler.pkl
+AMBUJACEM,10.6584,14.1322,2.0073,0.9605,2303,576,../models/gru_models\AMBUJACEM_gru.keras,../models/gru_models\AMBUJACEM_scaler.pkl
+ASHOKLEY,4.565,6.3718,3.0709,0.9505,2303,576,../models/gru_models\ASHOKLEY_gru.keras,../models/gru_models\ASHOKLEY_scaler.pkl
+ASIANPAINT,50.9841,67.573,1.9987,0.9473,2302,576,../models/gru_models\ASIANPAINT_gru.keras,../models/gru_models\ASIANPAINT_scaler.pkl
+AUROPHARMA,20.6949,26.6922,1.6041,0.9729,2302,576,../models/gru_models\AUROPHARMA_gru.keras,../models/gru_models\AUROPHARMA_scaler.pkl
+AXISBANK,27.0168,34.1181,2.2236,0.8786,2302,576,../models/gru_models\AXISBANK_gru.keras,../models/gru_models\AXISBANK_scaler.pkl
+BAJAJ-AUTO,114.9371,161.2747,1.2269,0.9758,2303,576,../models/gru_models\BAJAJ-AUTO_gru.keras,../models/gru_models\BAJAJ-AUTO_scaler.pkl

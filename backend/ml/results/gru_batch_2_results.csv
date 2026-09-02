@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+BAJAJFINSV,35.0769,45.7222,1.8945,0.9296,2303,576,../models/gru_models\BAJAJFINSV_gru.keras,../models/gru_models\BAJAJFINSV_scaler.pkl
+BAJFINANCE,18.8143,24.3251,2.1053,0.9659,2303,576,../models/gru_models\BAJFINANCE_gru.keras,../models/gru_models\BAJFINANCE_scaler.pkl
+BALKRISIND,53.0854,75.1284,2.048,0.9437,2301,576,../models/gru_models\BALKRISIND_gru.keras,../models/gru_models\BALKRISIND_scaler.pkl
+BANKBARODA,8.4509,10.0266,3.257,0.8298,2303,576,../models/gru_models\BANKBARODA_gru.keras,../models/gru_models\BANKBARODA_scaler.pkl
+BHARTIARTL,101.8393,111.6612,5.5523,0.7167,2302,576,../models/gru_models\BHARTIARTL_gru.keras,../models/gru_models\BHARTIARTL_scaler.pkl
+BHEL,11.1857,14.3958,3.828,0.945,2303,576,../models/gru_models\BHEL_gru.keras,../models/gru_models\BHEL_scaler.pkl
+BIOCON,5.5342,7.3264,1.5314,0.9476,2303,576,../models/gru_models\BIOCON_gru.keras,../models/gru_models\BIOCON_scaler.pkl
+BOSCHLTD,1068.8529,1377.6028,2.9434,0.8968,2301,576,../models/gru_models\BOSCHLTD_gru.keras,../models/gru_models\BOSCHLTD_scaler.pkl
+BPCL,12.4397,14.3743,3.8148,0.7871,2302,576,../models/gru_models\BPCL_gru.keras,../models/gru_models\BPCL_scaler.pkl
+BRITANNIA,91.8724,122.0369,1.6575,0.9124,2303,576,../models/gru_models\BRITANNIA_gru.keras,../models/gru_models\BRITANNIA_scaler.pkl

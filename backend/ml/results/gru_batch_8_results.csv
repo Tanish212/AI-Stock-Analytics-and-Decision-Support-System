@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+NTPC,6.6303,8.8533,1.8159,0.9121,2303,576,../models/gru_models\NTPC_gru.keras,../models/gru_models\NTPC_scaler.pkl
+NYKAA,3.9765,5.2096,1.4508,0.9672,950,238,../models/gru_models\NYKAA_gru.keras,../models/gru_models\NYKAA_scaler.pkl
+OIL,12.1305,16.7806,2.5159,0.9394,2303,576,../models/gru_models\OIL_gru.keras,../models/gru_models\OIL_scaler.pkl
+ONGC,5.3339,7.2819,2.0048,0.9206,2303,576,../models/gru_models\ONGC_gru.keras,../models/gru_models\ONGC_scaler.pkl
+PAYTM,67.8681,76.688,5.3994,0.6917,945,237,../models/gru_models\PAYTM_gru.keras,../models/gru_models\PAYTM_scaler.pkl
+PERSISTENT,187.4207,224.4698,3.4409,0.8956,2303,576,../models/gru_models\PERSISTENT_gru.keras,../models/gru_models\PERSISTENT_scaler.pkl
+PETRONET,4.058,5.7148,1.3468,0.9601,2303,576,../models/gru_models\PETRONET_gru.keras,../models/gru_models\PETRONET_scaler.pkl
+PFC,8.0237,11.4363,1.8697,0.9449,2303,576,../models/gru_models\PFC_gru.keras,../models/gru_models\PFC_scaler.pkl
+PNB,2.0856,2.8161,1.91,0.9204,2303,576,../models/gru_models\PNB_gru.keras,../models/gru_models\PNB_scaler.pkl
+POLYCAB,161.9243,216.1245,2.1289,0.971,1457,365,../models/gru_models\POLYCAB_gru.keras,../models/gru_models\POLYCAB_scaler.pkl

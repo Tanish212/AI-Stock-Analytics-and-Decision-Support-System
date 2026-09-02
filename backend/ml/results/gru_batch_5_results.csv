@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+HINDALCO,27.2721,35.617,3.3006,0.944,2303,576,../models/gru_models\HINDALCO_gru.keras,../models/gru_models\HINDALCO_scaler.pkl
+HINDPETRO,6.9204,9.2816,1.7628,0.949,2303,576,../models/gru_models\HINDPETRO_gru.keras,../models/gru_models\HINDPETRO_scaler.pkl
+HINDUNILVR,41.1701,52.7113,1.716,0.9332,2303,576,../models/gru_models\HINDUNILVR_gru.keras,../models/gru_models\HINDUNILVR_scaler.pkl
+ICICIBANK,23.0918,29.1972,1.7282,0.904,2302,576,../models/gru_models\ICICIBANK_gru.keras,../models/gru_models\ICICIBANK_scaler.pkl
+IDEA,0.4327,0.5389,4.5314,0.9703,2303,576,../models/gru_models\IDEA_gru.keras,../models/gru_models\IDEA_scaler.pkl
+INDIGO,114.8882,150.0769,2.3463,0.9342,2132,533,../models/gru_models\INDIGO_gru.keras,../models/gru_models\INDIGO_scaler.pkl
+INDUSINDBK,26.0968,38.0365,2.838,0.9747,2302,576,../models/gru_models\INDUSINDBK_gru.keras,../models/gru_models\INDUSINDBK_scaler.pkl
+INDUSTOWER,8.5015,10.7199,2.1425,0.9188,2303,576,../models/gru_models\INDUSTOWER_gru.keras,../models/gru_models\INDUSTOWER_scaler.pkl
+INFY,33.7586,43.0673,2.1838,0.9718,2302,576,../models/gru_models\INFY_gru.keras,../models/gru_models\INFY_scaler.pkl
+IOC,3.5288,4.4639,2.3013,0.9196,2303,576,../models/gru_models\IOC_gru.keras,../models/gru_models\IOC_scaler.pkl

@@ -1,0 +1,11 @@
+Stock,MAE,RMSE,MAPE,R2,Train Records,Test Records,Model Path,Scaler Path
+TITAN,155.6875,183.3032,4.0378,0.8473,2302,576,../models/gru_models\TITAN_gru.keras,../models/gru_models\TITAN_scaler.pkl
+TORNTPHARM,98.513,132.4278,2.5213,0.9478,2302,576,../models/gru_models\TORNTPHARM_gru.keras,../models/gru_models\TORNTPHARM_scaler.pkl
+TORNTPOWER,41.6025,56.3866,2.7447,0.8915,2303,576,../models/gru_models\TORNTPOWER_gru.keras,../models/gru_models\TORNTPOWER_scaler.pkl
+TVSMOTOR,79.8677,113.5892,2.4583,0.9621,2302,576,../models/gru_models\TVSMOTOR_gru.keras,../models/gru_models\TVSMOTOR_scaler.pkl
+UBL,53.6706,67.5685,2.7954,0.9312,2303,576,../models/gru_models\UBL_gru.keras,../models/gru_models\UBL_scaler.pkl
+ULTRACEMCO,268.2795,327.5322,2.2975,0.7553,2302,576,../models/gru_models\ULTRACEMCO_gru.keras,../models/gru_models\ULTRACEMCO_scaler.pkl
+UNIONBANK,3.6635,4.7114,2.534,0.9598,2303,576,../models/gru_models\UNIONBANK_gru.keras,../models/gru_models\UNIONBANK_scaler.pkl
+VEDL,21.6291,33.0808,4.4427,0.9152,2303,576,../models/gru_models\VEDL_gru.keras,../models/gru_models\VEDL_scaler.pkl
+WIPRO,5.5217,7.0714,2.1946,0.962,2303,576,../models/gru_models\WIPRO_gru.keras,../models/gru_models\WIPRO_scaler.pkl
+ZYDUSLIFE,15.0168,20.1675,1.4821,0.9527,2302,576,../models/gru_models\ZYDUSLIFE_gru.keras,../models/gru_models\ZYDUSLIFE_scaler.pkl
