@@ -11,3 +11,4 @@ scikit-learn
 tensorflow
 joblib
 uvicorn[standard]
+fastapi
