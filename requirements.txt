@@ -10,3 +10,4 @@ pandas
 scikit-learn
 tensorflow
 joblib
+uvicorn[standard]
