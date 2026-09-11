@@ -589,16 +589,13 @@ const Footer = () => (
 
       <div className="flex gap-6 text-xs text-slate-400 font-medium">
 
-        <a href="#" className="hover:text-cyan-400 transition-colors">
-          Privacy Policy
-        </a>
-
-        <a href="#" className="hover:text-cyan-400 transition-colors">
-          Terms of Service
-        </a>
-
-        <a href="#" className="hover:text-cyan-400 transition-colors">
-          Contact Support
+        <a
+          href="https://github.com/Tanish212/AI-Stock-Analytics-and-Decision-Support-System.git"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-cyan-400 transition-colors"
+        >
+          GitHub
         </a>
 
       </div>
