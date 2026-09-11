@@ -6,7 +6,6 @@ import {
   Scale,
   Newspaper,
   LogOut,
-  Bell,
   TrendingUp,
   TrendingDown,
   Minus,
@@ -234,9 +233,6 @@ export default function StockWatchlistPage() {
             >
               <RefreshCw size={16} className={loading ? 'animate-spin' : ''} />
               <span>Refresh</span>
-            </button>
-            <button className="feature-notifications" aria-label="Notifications">
-              <Bell size={20} />
             </button>
           </div>
         </header>

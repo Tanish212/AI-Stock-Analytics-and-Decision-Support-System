@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { BarChart3, Bell, ChevronRight, Home, LogOut, Newspaper, Scale, Search, Star, TrendingUp } from 'lucide-react';
+import { BarChart3, ChevronRight, Home, LogOut, Newspaper, Scale, Search, Star, TrendingUp } from 'lucide-react';
 import { getCurrentUser } from '../utils/user';
 
 const features = [
@@ -43,7 +43,7 @@ export default function FeatureSelectionPage() {
         </div>
       </aside>
       <section className="feature-main">
-        <header className="feature-header"><div><p className="feature-eyebrow">MARKET COMMAND CENTER</p><h1>Hello, {user.firstName} <span>✦</span></h1><p>What would you like to explore today?</p></div><button className="feature-notifications" aria-label="Notifications"><Bell size={20} /></button></header>
+        <header className="feature-header"><div><p className="feature-eyebrow">MARKET COMMAND CENTER</p><h1>Hello, {user.firstName} <span>✦</span></h1><p>What would you like to explore today?</p></div></header>
         <section className="feature-grid" aria-label="Choose a feature">
           {features.map(({ title, description, icon: Icon, color }) => {
             const targetPath = title === 'Analyze Stocks' ? '/analyze' : title === 'News' ? '/news' : title === 'Stock Comparison' ? '/compare' : title === 'Watchlist' ? '/watchlist' : '#';

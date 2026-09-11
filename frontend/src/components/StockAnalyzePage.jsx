@@ -11,7 +11,6 @@ import {
   Star,
   Newspaper,
   LogOut,
-  Bell,
   Cpu,
   ShieldCheck,
   Zap,
@@ -207,9 +206,6 @@ export default function StockAnalyzePage() {
             >
               <ArrowLeft size={15} />
               Back to Home
-            </button>
-            <button className="feature-notifications" aria-label="Notifications">
-              <Bell size={20} />
             </button>
           </div>
         </header>

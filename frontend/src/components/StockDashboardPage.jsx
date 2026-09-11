@@ -11,7 +11,6 @@ import {
   Star,
   Newspaper,
   LogOut,
-  Bell,
   Cpu,
   ShieldAlert,
   Activity,
